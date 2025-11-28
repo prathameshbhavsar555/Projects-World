@@ -1,7 +1,7 @@
 // Admin credentials
 const ADMIN_CREDENTIALS = {
-    username: 'admin',
-    password: 'admin123'
+    username: 'sonu',
+    password: 'sonu123'
 };
 
 // Check if admin is logged in
